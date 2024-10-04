@@ -6,6 +6,6 @@ define('DB_USERNAME', 'admin');
 
 define('DB_PASSWORD', 'anurag123!');
 
-define('DB_DATABASE', 'anurag01');
+define('DB_DATABASE', 'anuragstudent');
 
 ?>
