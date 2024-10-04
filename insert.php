@@ -13,7 +13,7 @@
 		// username => root now your db username 
 		// password => empty now your own password
 		// database name => Your database name
-		$conn = mysqli_connect("anuragdb.czptxhzjxjrt.us-east-1.rds.amazonaws.com", "admin", "anurag123!", "anurag01");
+		$conn = mysqli_connect("anuragdb.czptxhzjxjrt.us-east-1.rds.amazonaws.com", "admin", "anurag123!", "anuragstudent");
 		
 		// Check connection
 		if($conn === false){
